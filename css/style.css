@@ -91,7 +91,7 @@ nav ul {
 }
 .info .title {
   display: block;
-  border-color: black;
+  background-color: black;
   color: white;
   padding: 1em 2rem;
 }
