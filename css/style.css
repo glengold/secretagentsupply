@@ -44,6 +44,11 @@ img {
   top: 9rem;
   position: relative;
 }
+.headline h1 {
+  font-size: 2em;
+  line-height: 1.2em;
+  margin: 0.25em 0;
+}
 h4, h1 {
   font-weight: bold;
 }
