@@ -30,7 +30,7 @@ img {
   border-style: none;
 }
 .main-banner {
-  background-image: url(./images/moto.jpeg);
+  background-image: url(../images/moto.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
