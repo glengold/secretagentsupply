@@ -83,8 +83,11 @@ nav ul {
   text-align: center;
   padding: 0.5em;
 }
+.product {
+  width: 30%
+}
 .product-image img {
-  width: 30%;
+  max-width: 8em;
 }
 .business-info {
   display: flex;
