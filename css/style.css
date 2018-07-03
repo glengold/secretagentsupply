@@ -109,6 +109,9 @@ footer {
   margin-top: 4em;
   padding: 5em 0;
 }
+nav {
+  display: none;
+}
 @media only screen and (max-width: 1024px) {
   .info {
     width: 35%;
@@ -133,9 +136,9 @@ footer {
   }
   .headline h1 {
     font-family: Helvetica;
-    font-size: 1rem;
+    font-size: 1em;
     font-weight: bold;
-    margin: 2rem;
+    margin: 2em;
   }
   .headline h4 {
     font-family: Helvetica;
@@ -156,6 +159,9 @@ footer {
     text-align: center;
   }
   .product.watch {
+    display: none;
+  }
+  nav {
     display: none;
   }
 }
