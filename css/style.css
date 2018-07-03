@@ -116,7 +116,42 @@ footer {
   .product {
     width: 47%;
   }
-  .product glasses {
+  .product.glasses {
+    display: none;
+  }
+}
+@media only screen and (max-width: 470px) {
+  .main-banner {
+    height: 15rem;
+  }
+  .company img {
+    height: 10rem;
+  }
+  .headline h1 {
+    font-family: Helvetica;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 2rem;
+  }
+  .headline h4 {
+    font-family: Helvetica;
+    font-size: 0.77rem;
+    font-weight: bold;
+    line-height: 1rem;
+  }
+  .product {
+    width: 90%;
+  }
+  .info {
+    width: 90%;
+  }
+  .info .title {
+    margin-top: 0.5rem;
+  }
+  footer {
+    text-align: center;
+  }
+  .product.watch {
     display: none;
   }
 }
