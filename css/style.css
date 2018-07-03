@@ -119,6 +119,10 @@ footer {
   .product.glasses {
     display: none;
   }
+  .mobile-nav {
+    display: block;
+    text-align: center;
+  }
 }
 @media only screen and (max-width: 470px) {
   .main-banner {
