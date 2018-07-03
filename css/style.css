@@ -109,3 +109,11 @@ footer {
   margin-top: 4em;
   padding: 5em 0;
 }
+@media only screen and (max-width: 1024px) {
+  .info {
+    width: 35%;
+  }
+  .product {
+    width: 47%;
+  }
+}
