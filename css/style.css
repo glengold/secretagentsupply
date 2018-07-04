@@ -123,6 +123,9 @@ footer {
     display: block;
     text-align: center;
   }
+  .desktop-nav {
+    display: none;
+  }
 }
 @media only screen and (max-width: 470px) {
   .main-banner {
