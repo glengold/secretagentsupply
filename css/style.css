@@ -56,7 +56,7 @@ nav {
   background-color: firebrick;
   color: white;
 }
-.desktop-nav {
+nav .desktop-nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
