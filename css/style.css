@@ -123,11 +123,11 @@ footer {
   .product.glasses {
     display: none;
   }
-  .mobile-nav {
+  nav .mobile-nav {
     display: block;
     text-align: center;
   }
-  .desktop-nav {
+  nav .desktop-nav {
     display: none;
   }
 }
@@ -165,10 +165,10 @@ footer {
   .product.watch {
     display: none;
   }
-  .desktop-nav  {
+  nav .desktop-nav  {
     display: none;
   }
-  .mobile-nav {
+  nav .mobile-nav {
     display: block;
     text-align: center;
   }
